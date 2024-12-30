@@ -28,7 +28,7 @@ const Home = () => {
 
 
   return (
-    <div className="h-screen bg-home-background lg:p-20 pt-20 p-10 flex flex-col items-center gap-12">
+    <div className="min-h-screen bg-home-background lg:p-20 pt-20 p-10 flex flex-col items-center gap-12">
       <p className="text-center text-white lg:text-2xl text-base font-normal">
         ĐÁNH GIÁ MỨC ĐỘ TRƯỞNG THÀNH VỀ QUẢN TRỊ TRẢI NGHIỆM KHÁCH HÀNG
       </p>
